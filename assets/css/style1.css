@@ -9,7 +9,7 @@ font-family: Verdana,Arial;
 .navbar-opaque{
 
 background-color: rgba(0,0,0,0.95) !important;
-transition: background-color 500ms linear;
+transition: background-color 1000ms linear;
 
 }
 
@@ -274,4 +274,12 @@ font-size:1.9rem;
 
 
 
+}
+
+
+
+
+#footer {
+   background-color: #111111 !important;
+   font-size: 0.9rem;
 }
