@@ -10,7 +10,7 @@ font-family: Verdana,Arial;
 body { overflow-x: hidden !important; }
 
 section {
-   overflow:hidden;
+   overflow:hidden !important;
    }
 
 .navbar-opaque{
